@@ -1,0 +1,2 @@
+This is my original content.
+I am learning Git Stash.
